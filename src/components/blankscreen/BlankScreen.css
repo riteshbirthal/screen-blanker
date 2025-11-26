@@ -1,0 +1,6 @@
+#blank-screen-root{
+    position: fixed;
+    inset: 0;
+    cursor: none;
+    z-index: 9999;
+}
